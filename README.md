@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lehm
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning css, html, javascript, python
-- 📫 How to reach me - Lehm_#4116
+- 📫 How to reach me - Lehm_#4116 (Discord)
 
 <!---
 Lehm35/Lehm35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
