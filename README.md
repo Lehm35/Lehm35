@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lehm
-- 👀 I’m interested in Web development
+- 👀 I’m interested in creating discord bots
 - 🌱 I’m currently learning Discord.js
 - 📫 How to reach me - Lehm_#4116
 
